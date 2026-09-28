@@ -1,0 +1,15 @@
+# Environnements Python
+.conda/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Données et modèles
+data/
+models/
+*.pkl
+*.h5
+
+# Config locale
+.vscode/
